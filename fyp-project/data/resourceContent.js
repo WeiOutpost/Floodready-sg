@@ -50,5 +50,5 @@ export const emergencyContacts = [
   { name: 'Police', number: '999' },
   { name: 'Ambulance / Fire (SCDF)', number: '995' },
   { name: 'Non-Emergency Ambulance', number: '1777' },
-  { name: 'PUB 24-hr Call Centre', number: '1800-284-6600' },
+  { name: 'PUB 24-hr Call Centre', number: ' 1800-2255-782' },
 ];
